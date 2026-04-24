@@ -51,7 +51,7 @@ button:active {
     filter: brightness(1.5);
 }
 
-.btn-operador { background-color: #4b4b4b; }
+.btn-operador { background-color: #d8aeff; }
 .btn-especial { background-color: #f4e6ff; color: black; }
 .btn-igual { 
     background-color: #bc92ff; 
