@@ -52,9 +52,9 @@ button:active {
 }
 
 .btn-operador { background-color: #4b4b4b; }
-.btn-especial { background-color: #a5a5a5; color: black; }
+.btn-especial { background-color: #f4e6ff; color: black; }
 .btn-igual { 
-    background-color: #ff9500; 
+    background-color: #bc92ff; 
     grid-row: span 3; /* Faz o botão '=' ocupar 3 linhas */
     height: 100%;
     border-radius: 30px;
